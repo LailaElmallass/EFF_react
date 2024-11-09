@@ -1,0 +1,225 @@
+{
+    "expertsData": [
+      {
+        "id": 1,
+        "nom_complet": "Dupont Jean",
+        "événements": [
+          {
+            "thème": "Développement Web",
+            "date_debut": "2024-03-02",
+            "date-fin": "2024-03-15",
+            "description": "Introduction au développement web moderne",
+            "cout_journalier": 500,
+            "durée": 13
+          },
+          {
+            "thème": "Applications Mobiles",
+            "date_debut": "2024-04-01",
+            "date-fin": "2024-04-15",
+            "description": "Conception et développement des applications mobiles",
+            "cout_journalier": 700,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nom_complet": "Martin Claire",
+        "événements": [
+          {
+            "thème": "Data Science",
+            "date_debut": "2024-03-10",
+            "date-fin": "2024-03-24",
+            "description": "Analyse des données et apprentissage automatique",
+            "cout_journalier": 600,
+            "durée": 14
+          },
+          {
+            "thème": "Intelligence Artificielle",
+            "date_debut": "2024-04-05",
+            "date-fin": "2024-04-20",
+            "description": "Introduction à l'IA et ses applications",
+            "cout_journalier": 750,
+            "durée": 15
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nom_complet": "Lemoine Paul",
+        "événements": [
+          {
+            "thème": "Cybersécurité",
+            "date_debut": "2024-03-12",
+            "date-fin": "2024-03-26",
+            "description": "Protection des systèmes et des réseaux informatiques",
+            "cout_journalier": 650,
+            "durée": 14
+          },
+          {
+            "thème": "Cloud Computing",
+            "date_debut": "2024-04-07",
+            "date-fin": "2024-04-21",
+            "description": "Introduction à l'informatique en nuage et ses avantages",
+            "cout_journalier": 800,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nom_complet": "Durand Marc",
+        "événements": [
+          {
+            "thème": "Blockchain",
+            "date_debut": "2024-03-15",
+            "date-fin": "2024-03-29",
+            "description": "Introduction à la blockchain et ses applications",
+            "cout_journalier": 700,
+            "durée": 14
+          },
+          {
+            "thème": "Big Data",
+            "date_debut": "2024-04-10",
+            "date-fin": "2024-04-24",
+            "description": "Gestion et analyse des grandes quantités de données",
+            "cout_journalier": 720,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nom_complet": "Benoit Sophie",
+        "événements": [
+          {
+            "thème": "Développement Mobile",
+            "date_debut": "2024-03-18",
+            "date-fin": "2024-04-01",
+            "description": "Création d'applications mobiles Android et iOS",
+            "cout_journalier": 750,
+            "durée": 14
+          },
+          {
+            "thème": "Développement Front-End",
+            "date_debut": "2024-04-12",
+            "date-fin": "2024-04-26",
+            "description": "Techniques modernes de développement front-end avec React",
+            "cout_journalier": 650,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nom_complet": "Garnier Sylvain",
+        "événements": [
+          {
+            "thème": "SEO et Marketing Digital",
+            "date_debut": "2024-03-20",
+            "date-fin": "2024-04-03",
+            "description": "Optimisation pour les moteurs de recherche et stratégies marketing",
+            "cout_journalier": 550,
+            "durée": 14
+          },
+          {
+            "thème": "Design UI/UX",
+            "date_debut": "2024-04-15",
+            "date-fin": "2024-04-29",
+            "description": "Design de l'interface utilisateur et expérience utilisateur",
+            "cout_journalier": 600,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "nom_complet": "Tessier Isabelle",
+        "événements": [
+          {
+            "thème": "Développement Back-End",
+            "date_debut": "2024-03-25",
+            "date-fin": "2024-04-08",
+            "description": "Développement des systèmes back-end avec Node.js et Python",
+            "cout_journalier": 670,
+            "durée": 14
+          },
+          {
+            "thème": "Développement Full-Stack",
+            "date_debut": "2024-04-18",
+            "date-fin": "2024-05-02",
+            "description": "Création d'applications full-stack avec JavaScript et MongoDB",
+            "cout_journalier": 720,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "nom_complet": "Petit Laurent",
+        "événements": [
+          {
+            "thème": "Réseaux Informatiques",
+            "date_debut": "2024-03-30",
+            "date-fin": "2024-04-13",
+            "description": "Principes fondamentaux des réseaux informatiques et des protocoles",
+            "cout_journalier": 600,
+            "durée": 14
+          },
+          {
+            "thème": "Systèmes d'Exploitation",
+            "date_debut": "2024-04-25",
+            "date-fin": "2024-05-09",
+            "description": "Étude des systèmes d'exploitation modernes et leurs fonctionnements",
+            "cout_journalier": 650,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "nom_complet": "Lambert Thierry",
+        "événements": [
+          {
+            "thème": "Programmation Python",
+            "date_debut": "2024-03-05",
+            "date-fin": "2024-03-19",
+            "description": "Apprentissage des bases de la programmation Python",
+            "cout_journalier": 580,
+            "durée": 14
+          },
+          {
+            "thème": "Analyse de Données",
+            "date_debut": "2024-04-02",
+            "date-fin": "2024-04-16",
+            "description": "Techniques d'analyse de données avec Python et pandas",
+            "cout_journalier": 620,
+            "durée": 14
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "nom_complet": "Boulanger Marie",
+        "événements": [
+          {
+            "thème": "Introduction à l'IoT",
+            "date_debut": "2024-03-08",
+            "date-fin": "2024-03-22",
+            "description": "Initiation à l'Internet des Objets (IoT)",
+            "cout_journalier": 700,
+            "durée": 14
+          },
+          {
+            "thème": "Automatisation et DevOps",
+            "date_debut": "2024-04-20",
+            "date-fin": "2024-05-04",
+            "description": "Mise en place de processus d'automatisation avec Docker et Kubernetes",
+            "cout_journalier": 750,
+            "durée": 14
+          }
+        ]
+      }
+    ]
+}
+  
